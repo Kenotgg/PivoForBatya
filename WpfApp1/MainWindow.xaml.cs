@@ -41,8 +41,6 @@ namespace WpfApp1
             batyaList.Add(baty5);
             var baty6 = new Batya("Иван", true, 100);
             batyaList.Add(baty6);
-
-
         }
 
             
